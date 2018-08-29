@@ -1,7 +1,7 @@
 # Welcome to Krunker.io-Cheats!
 This is a Krunker.io cheat loaded as a Chrome extension.
 
-### :muscle: Features
+## :muscle: Features
 
 * Aimbot
 * Visible nicknames through the walls
